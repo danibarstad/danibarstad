@@ -6,7 +6,6 @@
 
 My name's dani.
 
-- 🔭 I’m currently working in Automation @ Treyarch
+- 🔭 I’m currently working in Automation @ Infinity Ward
 - 📫 danibarstad@gmail.com
-- :dove: [@danibarstad](https://twitter.com/danibarstad)
 - 😄 Pronouns: he/him/his
